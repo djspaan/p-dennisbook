@@ -1,0 +1,54 @@
+* {
+	font-family: verdana,sans-serif;
+	font-size: 14pt;
+}
+
+body {
+	color: grey !important;
+}
+
+img {
+	border: 1px solid black;
+	box-shadow: 2px 2px 2px #888;
+	margin-bottom: 1em;
+	margin-right: 1em;
+	border-radius: 5%;
+}
+
+.span_4 {
+    width: 33.3333%;
+}
+
+.row {
+    margin: 0 auto;
+    max-width: 1000px;
+    width: 100%;
+}
+
+.label {
+	color: grey;
+}
+
+.column {
+    float: left;
+    padding: 0 15px;
+}
+
+.taken, .error {
+	color: red;
+}
+
+.available {
+	color: green;
+}
+
+.whisper {
+	color: #006600;
+	font-style: italic;
+}
+
+#logo {
+	font-family: Georgia;
+	font-weight: bold;
+	font-size: 97px;
+}
